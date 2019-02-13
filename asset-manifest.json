@@ -1,0 +1,14 @@
+{
+  "main.css": "/trialist/static/css/main.6fae2ca1.chunk.css",
+  "main.js": "/trialist/static/js/main.3926e4ba.chunk.js",
+  "main.js.map": "/trialist/static/js/main.3926e4ba.chunk.js.map",
+  "runtime~main.js": "/trialist/static/js/runtime~main.eb793648.js",
+  "runtime~main.js.map": "/trialist/static/js/runtime~main.eb793648.js.map",
+  "static/js/2.d16a2668.chunk.js": "/trialist/static/js/2.d16a2668.chunk.js",
+  "static/js/2.d16a2668.chunk.js.map": "/trialist/static/js/2.d16a2668.chunk.js.map",
+  "index.html": "/trialist/index.html",
+  "precache-manifest.a8e5d3e0906292ad242407d274639edb.js": "/trialist/precache-manifest.a8e5d3e0906292ad242407d274639edb.js",
+  "service-worker.js": "/trialist/service-worker.js",
+  "static/css/main.6fae2ca1.chunk.css.map": "/trialist/static/css/main.6fae2ca1.chunk.css.map",
+  "static/media/logo.svg": "/trialist/static/media/logo.5d5d9eef.svg"
+}
